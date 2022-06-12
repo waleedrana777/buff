@@ -1,4 +1,4 @@
-This is a buff.market clone for the front end
+## A buff.market front end clone
 
 ## Deploy on Vercel
 
