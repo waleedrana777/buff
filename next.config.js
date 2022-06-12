@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-}
+	reactStrictMode: true,
+	images: {
+		domains: ["buffmarket.fp.ps.easebar.com"],
+	},
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;

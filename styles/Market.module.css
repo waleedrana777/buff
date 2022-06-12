@@ -1,0 +1,11 @@
+.marketLayoutGrid {
+	display: grid;
+	grid-template-columns: 240px 1fr;
+	grid-column-gap: 10px;
+}
+
+.marketGrid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(180px, auto));
+	grid-gap: 2vw;
+}

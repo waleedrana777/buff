@@ -1,0 +1,45 @@
+{
+	"workbench.colorCustomizations": {
+		"[Default Dark+]": {
+			"editor.lineHighlightBackground": "#c0bfbf71"
+		},
+		"[Default Light+]": {
+			"editor.lineHighlightBackground": "#ffffff3f"
+		},
+		"editorLineNumber.activeForeground": "#fff",
+		"titleBar.activeBackground": "#bdffce",
+		"activityBar.activeBackground": "#f0fff4",
+		"editor.lineHighlightBackground": "#343434",
+		"terminal.foreground": "#eff0eb",
+		"terminal.ansiBlack": "#282a36",
+		"terminal.ansiRed": "#ff5c57",
+		"terminal.ansiGreen": "#5af78e",
+		"terminal.ansiYellow": "#f3f99d",
+		"terminal.ansiBlue": "#57c7ff",
+		"terminal.ansiMagenta": "#ff6ac1",
+		"terminal.ansiCyan": "#9aedfe",
+		"terminal.ansiWhite": "#f1f1f0",
+		"terminal.ansiBrightBlack": "#686868",
+		"terminal.ansiBrightRed": "#ff5c57",
+		"terminal.ansiBrightGreen": "#5af78e",
+		"terminal.ansiBrightYellow": "#f3f99d",
+		"terminal.ansiBrightBlue": "#57c7ff",
+		"terminal.ansiBrightMagenta": "#ff6ac1",
+		"terminal.ansiBrightCyan": "#9aedfe",
+		"terminal.ansiBrightWhite": "#eff0eb",
+		"activityBar.activeBorder": "#b99fff",
+		"activityBar.background": "#f0fff4",
+		"activityBar.foreground": "#15202b",
+		"activityBar.inactiveForeground": "#15202b99",
+		"activityBarBadge.background": "#b99fff",
+		"activityBarBadge.foreground": "#15202b",
+		"sash.hoverBorder": "#f0fff4",
+		"statusBarItem.hoverBackground": "#8affa8",
+		"statusBarItem.remoteBackground": "#bdffce",
+		"statusBarItem.remoteForeground": "#15202b",
+		"titleBar.activeForeground": "#15202b",
+		"titleBar.inactiveBackground": "#bdffce99",
+		"titleBar.inactiveForeground": "#15202b99"
+	},
+	"peacock.color": "#bdffce"
+}
